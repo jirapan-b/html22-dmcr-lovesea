@@ -1,0 +1,30 @@
+@import '../scss/components/_breadcrumb';
+@import '../scss/components/_button';
+@import '../scss/components/_editor-content';
+@import '../scss/components/_form';
+@import '../scss/components/_pagination';
+@import '../scss/components/_whead';
+@import '../scss/components/_modal';
+@import '../scss/components/_sweetalert';
+
+@import "../scss/vendors/_aos";
+@import "../scss/vendors/_fancybox";
+@import '../scss/vendors/_feather';
+@import '../scss/vendors/_slick-theme';
+@import "../scss/vendors/_slick";
+@import "../scss/vendors/_select2.min";
+
+@import '../scss/layouts/_header';
+@import '../scss/layouts/_footer';
+
+@import '../scss/configs/_font';
+@import '../scss/configs/_variable';
+@import '../scss/configs/_default';
+@import '../scss/configs/_base';
+
+// pages
+@import '../scss/pages/_home';
+@import '../scss/pages/_about-us';
+@import '../scss/pages/_news-all';
+
+@import '../scss/layouts/_breakpoints';

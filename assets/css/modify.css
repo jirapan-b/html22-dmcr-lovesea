@@ -1,0 +1,36 @@
+.link {
+    transition: all 400ms ease-out;
+}
+
+/* .site-container {
+    background-color: blanchedalmond;
+} */
+
+/* .home-page .section-I {
+    height: 80vh;
+} */
+
+
+.blob-motion {
+    position: absolute;
+    transform: translateY(-20%);
+}
+
+
+
+/* ohm 18/07/2022 */
+.content .backnextpage {
+    display: flex;
+    justify-content: space-between;
+}
+
+.btn-border-primary .icon-arrow-right:before {
+    position: relative;
+    top: 3px;
+}
+
+.editor-content p,
+.editor-content div,
+.editor-content span {
+    font-family: "db_helvethaica" !important;
+}

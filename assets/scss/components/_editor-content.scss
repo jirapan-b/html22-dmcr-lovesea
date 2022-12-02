@@ -1,0 +1,42 @@
+.editor-content {
+	position: relative;
+	font-size: var(--typo-md);
+	color: var(--color-default);
+	line-height: 1.4em;
+	margin-bottom: 5rem;
+	p {
+		margin-bottom: 20px;
+		&:last-child {
+			margin-bottom: 0;
+		}
+	}
+	img {
+		height: auto !important;
+	}
+	.thumb {
+		text-align: center;
+	}
+	.title {
+		font-size: var(--typo-lg);
+		font-weight: var(--fw-bold);
+	}
+	.img-desc {
+		font-size: var(--typo-lg);
+		color: var(--color-primary);
+		text-align: center;
+		font-weight: var(--fw-bold);
+		margin-bottom: 20px;
+	}
+	iframe {
+		width: 100%;
+		height: 100%;
+	}
+	.iframe-container {
+		position: relative;
+		overflow: hidden;
+		width: 60%;
+		padding-top: 33.7%;
+		margin: 0 auto;
+		border-radius:var(--border-radius-10)
+	}
+}
